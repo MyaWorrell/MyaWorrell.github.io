@@ -1,0 +1,11 @@
+p {
+		color: #0000ff;
+		font-family: "Noto Sans Jp", "Verdana", "Tahoma", sans-serif;
+}
+
+.content {
+		margin-top: 100px;
+		margin-left: 50px;
+		width: 80%;
+		font-size: 2em;
+}
